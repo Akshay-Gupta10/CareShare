@@ -10,29 +10,15 @@ CareShare is a web-based food donation management system built with Django. It f
 - *Duration*: November 2024 - February 2025
 - *Institution*: GL Bajaj Institute of Technology and Management (GLBITM)
 
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Useful Links](#useful-links)
-- [Contact](#contact)
-
 ## Installation
 
 1. Install all the dependencies
-   sh
    npm install
    
 2. Create a file named ".env" and enter the following credentials:
-   js
    MONGO_URI = yourmongouri;
    
 3. Run the web application
-   sh
    npm start
    
 4. Open http://localhost:5000
@@ -77,23 +63,7 @@ CareShare is a web-based food donation management system built with Django. It f
 - *Frontend*: HTML, CSS, JavaScript, Bootstrap, EJS
 - *Database*: MongoDB
 
-## Contributing
-
-We welcome contributions to improve CareShare. Please follow these steps:
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 
 - *Name*: Akshay Gupta
 - *Email*: akshay.gupta.1018@gmail.com
-- *LinkedIn*: https://www.linkedin.com/in/akshay-gupta-06ba20249/
-
----
-© 2025 CareShare. All rights reserved.
