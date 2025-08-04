@@ -66,4 +66,4 @@ CareShare is a web-based food donation management system built with Django. It f
 ## Contact
 
 - *Name*: Akshay Gupta
-- *Email*: akshay.gupta.1018@gmail.com
+- *Email*: akshay.gupta.1018@gmail.com 
