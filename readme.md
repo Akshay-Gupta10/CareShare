@@ -6,7 +6,7 @@ CareShare is a web-based food donation management system built with Javascript. 
 
 ## Project Details
 
-- *Live Link*: https://care-share.onrender.com/
+- *Live Link*: https://careshare-24v4.onrender.com/
 - *Duration*: November 2024 - February 2025
 - *Institution*: GL Bajaj Institute of Technology and Management (GLBITM)
 
